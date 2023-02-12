@@ -1,2 +1,3 @@
-# dio-bootcamp-linux
-Repositório destinado ao bootcamp realizado pela DIO.
+# Repositório que será utilizado para realização do Bootcamp sobre Linux da DIO.
+
+Todos os códigos e desafios de projetos serão adicionados a este repositório.
